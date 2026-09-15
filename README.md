@@ -44,6 +44,7 @@ Formo is the data platform for onchain apps.
 ## Other
 
 - [Slack Community](https://formo.so/slack)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 - Support: email [support@formo.so](mailto:support@formo.so) with any questions
 - Say Hi: email us at [gm@formo.so](mailto:gm@formo.so) with feature requests, ideas, and partnerships!
 
